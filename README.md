@@ -36,9 +36,18 @@ I’m a passionate and experienced **mobile developer** (both native and cross-p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnmalugu&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmalugu&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=johnmalugu&show_icons=true&theme=radical" width="48%" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmalugu&layout=compact&theme=radical" width="48%" height="170" />
 </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=johnmalugu&theme=radical" alt="GitHub Streak" width="60%" height="170" />
+  </a>
+</p>
+
+
+
+
 
 ---
 
