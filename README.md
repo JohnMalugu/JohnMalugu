@@ -40,10 +40,6 @@ I’m a passionate and experienced **mobile developer** (both native and cross-p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmalugu&layout=compact&theme=radical" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnmalugu&theme=radical" height="170"/>
-</p>
-
 ---
 
 ## 📈 Currently Learning & Exploring
