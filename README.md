@@ -41,9 +41,13 @@ I’m a passionate and experienced **mobile developer** (both native and cross-p
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=johnmalugu&theme=radical" alt="GitHub Streak" width="60%" height="170" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=johnmalugu&theme=radical">
+      <img src="https://streak-stats.demolab.com/?user=johnmalugu&theme=default" alt="GitHub Streak Stats" width="60%" height="170" />
+    </picture>
   </a>
 </p>
+
 
 
 
